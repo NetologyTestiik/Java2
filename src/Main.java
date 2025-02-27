@@ -5,6 +5,7 @@ public class Main {
         int bonus = amout / mile;
 
         System.out.println("Итоговый бонус:" + bonus);
+        int totalmiles = 700;;
     }
 
 }
